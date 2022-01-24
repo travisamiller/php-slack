@@ -159,9 +159,9 @@ class Commander {
             'token'    => true,
             'endpoint' => '/files.revokePublicURL'
         ],
-        'files.sharedPublcURL' => [
+        'files.sharedPublicURL' => [
             'token'    => true,
-            'endpoint' => '/files.sharedPublcURL'
+            'endpoint' => '/files.sharedPublicURL'
         ],
         'files.upload' => [
             'token'    => true,
